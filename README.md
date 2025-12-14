@@ -1,48 +1,180 @@
-# Analyse-portrait-multimédia
-
-**Aline Manoukian**  
-28 novembre 2025
+# Présentation de production  
+## Projet : Application
 
 ---
 
-Dans ce projet, j’analyse mes compétences, mes intérêts et mes défis dans le domaine du multimédia. J’ai créé une présentation PowerPoint, un diagramme de flux et une carte mentale afin d’analyser et de présenter mon profil multimédia.
+## Phrase choc
 
-## Pourquoi ce programme
+**80 % des gens abandonnent leur to-do liste en moins de 3 semaines.**
 
-- **Motivation** : faire ce que j’aime  
-- **Intérêts / inspirations** : utiliser ma créativité  
-- **Objectif** : création de projets  
+---
 
-## Mon profil multimédia
+## Public cible
 
-- J’aime transformer des projets grâce à ma créativité  
+- Étudiants et jeunes adultes (15–30 ans)  
+- Personnes avec un TDAH ayant besoin de stimulation constante  
 
-## Mes forces
+---
 
-- Créativité  
-- Patience  
+## Ce qui est important pour le public cible
 
-## Mes faiblesses
+### Motivation
+- Voir leur progression de manière visuelle  
 
-- Je me déconcentre rapidement  
-- Ma vitesse d’exécution des tâches est lente  
+### Récompenses
+- Sentiment d’accomplissement lors de la complétion des tâches  
 
-## Domaines du multimédia qui m’attirent
+### Aspect social
+- Partager leurs accomplissements avec la communauté  
 
-- L’audiovisuel et la 3D  
-- J’aime l’aspect du montage, car il me permet de transmettre ma créativité à travers des projets  
+### Défis
+- Avoir des objectifs atteignables et motivants  
 
-## Domaine du multimédia le moins préféré
+---
 
-- Le web  
-- Je ne trouve pas de plaisir dans la programmation  
-- L’aspect créatif m’intéresse davantage que l’aspect technique  
+## Problème et opportunité
 
-## Mon premier choix d’études universitaires
+### Problème
+Les applications traditionnelles de to-do listes manquent d’engagement.  
+**80 % des utilisateurs abandonnent après 2 à 3 semaines**, car la motivation n’est pas maintenue sur le long terme.
 
-- Un programme en audiovisuel  
-- Le montage vidéo  
+### Opportunité
+Créer une application intégrant des **mécaniques addictives** (progression, collection, défis) combinées à la gestion de tâches, afin d’offrir une expérience motivante et récompensante.
 
-## Mon deuxième choix d’études universitaires
+---
 
-- Un programme lié à la modélisation 3D  
+## Présentation du concept
+
+Une application où les utilisateurs créent un **avatar personnalisable**.  
+Chaque tâche complétée donne de l’XP, permettant de **monter de niveau**, débloquer des accessoires (vêtements, cheveux, thèmes UI) et affronter des **final boss chronométrés** pour obtenir des récompenses rares.
+
+---
+
+## Éléments importants du concept
+
+### Système de progression
+
+- Niveaux (1–100+) avec XP  
+- Barre d’expérience qui se remplit visuellement  
+- Difficulté des tâches = quantité d’XP gagnée  
+- XP variable selon la difficulté et le temps estimé  
+- Streaks quotidiens  
+
+### Avatar personnalisable
+
+- Plus de **200 items déblocables**  
+- Vêtements, accessoires, coiffures  
+
+### Final Boss (mode défis chronométrés)
+
+- Barre de HP du boss qui diminue à chaque tâche complétée  
+- Mode coopératif : affronter des boss avec des amis  
+- Récompenses exclusives (skins légendaires, badges rares)  
+- Défis limités dans le temps (ex. : 10 tâches en 2 heures)  
+
+### Système de récompenses
+
+- Accessoires d’avatar déblocables par niveaux et accomplissements  
+- Médailles d’accomplissement : **50+ badges collectables**  
+- Thèmes UI personnalisables : mode foncé, néon, pastel, nature  
+
+---
+
+## Système communautaire
+
+- **Leaderboards** : classements hebdomadaires et mensuels  
+- **Guildes / équipes** : défis collaboratifs  
+- **Chat intégré** : encouragement et partage de stratégies  
+- **Défis communautaires** : objectifs globaux avec récompenses collectives  
+
+---
+
+## Système de catégorisation
+
+- Tâches classées par catégories :  
+  - Travail  
+  - Études  
+  - Sport  
+  - Créativité  
+  - Social  
+- Sous-tâches pour diviser les grands projets  
+- Rappels personnalisables avec notifications motivantes  
+
+---
+
+## Choix technologiques
+
+- Effets sonores (victoires, accomplissements)  
+- Notifications intelligentes  
+- Outils analytiques pour suivre l’engagement des utilisateurs  
+
+---
+
+## En quoi le concept répond aux attentes du public cible
+
+- **Motivation** : la progression visible (XP, niveaux) stimule le système de récompense du cerveau  
+- **Personnalisation** : l’avatar unique crée un attachement à l’application  
+- **Défis** : les boss offrent des objectifs excitants sans pression  
+- **Socialisation** : leaderboards et partage social renforcent l’engagement  
+- **Rejouabilité infinie** : contenu déblocable incitant à revenir chaque jour  
+- **Fun** : ce n’est pas seulement une to-do liste, mais un jeu utile  
+- **Accomplissement** : chaque tâche complétée est une récompense  
+
+---
+
+## Moodboard
+
+- **Typographie** : JMH Typewriter, Abadi  
+- Images : textes, logiciels, captures d’écran, conception visuelle  
+
+> *Le contenu généré par l’IA peut être incorrect.*
+
+---
+
+## Description des tâches principales
+
+### Préproduction
+
+- Design de l’application et du style visuel  
+- Création des wireframes  
+
+### Production
+
+- Développement du système de progression et d’XP  
+- Intégration du système social (amis, leaderboards)  
+- Création des assets visuels (avatars, items, UI)  
+- Ajustements avant publication  
+
+### Postproduction
+
+- Tests de l’application  
+- Création des publications promotionnelles  
+
+### Opération
+
+- Support utilisateur  
+- Organisation d’événements saisonniers (Halloween, Noël)  
+
+---
+
+## Conclusion
+
+### Ce qui rend le projet innovant
+
+Un mélange entre **productivité et jeu vidéo** dans une application de to-do liste :  
+XP, niveaux, boss et récompenses, un concept jamais vu dans les applications d’organisation traditionnelles.
+
+### Ce qui distingue le projet
+
+- Barre d’XP et combats de boss  
+- Thèmes UI et effets visuels  
+- Défis quotidiens et collaboratifs  
+- Socialisation : leaderboards et défis communautaires  
+- Rejouabilité infinie grâce au contenu déblocable et aux événements saisonniers  
+
+### Pourquoi ce projet attire des investisseurs (Kickstarter)
+
+- Large communauté cible : étudiants, jeunes adultes, utilisateurs TDAH  
+- Monétisation facile (accessoires, thèmes, passes de défis)  
+- Forte dimension communautaire  
+- Application utile, fun, innovante et facile à utiliser  
