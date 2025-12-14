@@ -127,7 +127,7 @@ Chaque tâche complétée donne de l’XP, permettant de **monter de niveau**, d
 - **Typographie** : JMH Typewriter, Abadi  
 - Images : textes, logiciels, captures d’écran, conception visuelle  
 
-![Moodboard](assets/images/moodboard.png)
+![Moodboard](assets/images/moodboard.jpeg)
 
 ---
 
